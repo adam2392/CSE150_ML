@@ -1,3 +1,6 @@
+Languages Used: C++, Matlab
+Concepts Used: Machine Learning, Bayes Rule, Belief Networks, DAGs, I/O stream, Compression algorithm, Trees
+
 CSE150_ML
 =========
 
